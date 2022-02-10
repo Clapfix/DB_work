@@ -1,0 +1,3 @@
+mysql-ctr start;
+mysql-ctr exit;
+mysql-ctl 
