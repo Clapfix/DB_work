@@ -1,0 +1,8 @@
+DROP DATABASE IF EXISTS boo;
+CREATE DATABASE IF NOT EXISTS boo;
+CREATE TABLE boo.neueTabelle(
+    name VARCHAR (127),
+    zahl int 
+);
+SHOW TABLES;
+DESCRIBE boo.test;
